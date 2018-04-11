@@ -1,0 +1,24 @@
+# Reading C:/intelFPGA_pro/17.1/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile C:/Users/Marco7/Desktop/Projeto_ULA/ULA.sv
+vsim work_ULA.tb_alu
+# vsim work_ULA.tb_alu 
+# Start time: 14:09:01 on Apr 10,2018
+# Loading sv_std.std
+# Loading work_ULA.tb_alu
+# Loading work_ULA.alu
+vsim work_ULA.alu
+# vsim work_ULA.alu 
+# Start time: 14:09:22 on Apr 10,2018
+# Loading sv_std.std
+# Loading work_ULA.alu
+vsim work_ULA.tb_alu
+# vsim work_ULA.tb_alu 
+# Start time: 14:09:40 on Apr 10,2018
+# Loading sv_std.std
+# Loading work_ULA.tb_alu
+# Loading work_ULA.alu
+add wave -position end sim:/tb_alu/*
+run
+quit
+# End time: 14:13:47 on Apr 10,2018, Elapsed time: 0:04:07
+# Errors: 0, Warnings: 0

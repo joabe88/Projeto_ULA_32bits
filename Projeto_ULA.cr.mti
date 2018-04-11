@@ -1,0 +1,8 @@
+C:/Users/Marco7/Desktop/Projeto_ULA/ULA.sv {1 {vlog -work work_ULA -sv -stats=none C:/Users/Marco7/Desktop/Projeto_ULA/ULA.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module ULA_32
+
+Top level modules:
+	ULA_32
+
+} {} {}}
